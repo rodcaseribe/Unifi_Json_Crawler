@@ -8,7 +8,7 @@ import os
 import requests
 
 
-data = '{"username":"admin","password":"91111000","strict":true}'
+data = '{"username":"admin","password":"SENHA","strict":true}'
 response = requests.post('https://10.0.9.2:8443/api/login', data=data, verify=False)
 cookies = {
 }
