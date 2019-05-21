@@ -14,6 +14,10 @@ Exemplo dentro de:
 
 # Adicionar no crontab a Execução
 
+Print Exemplo
+
+![Sem título](https://user-images.githubusercontent.com/9101840/58097313-7d1b2380-7bad-11e9-93ed-e0dd421b6a33.png)
+
 
 
 
