@@ -5,7 +5,7 @@ Monitoramento de Wi-fi
 
 # Modo de Execução
 
-python unifi.py > logff
+python unifi.py > aps
 
 # Dentro do Monitoramento por CGI adicionar no html o cat
 
