@@ -12,6 +12,8 @@ python unifi.py > logff
 Exemplo dentro de:
 # Wifi.sh
 
+# Adicionar no crontab a Execução
+
 
 
 
