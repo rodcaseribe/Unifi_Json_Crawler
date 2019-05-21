@@ -1,4 +1,5 @@
 #!/bin/bash
+#pwd=/usr/lib/cgi-bin/
 
 echo "Content-type: text/html"
 echo ""
@@ -10,5 +11,5 @@ echo '<meta charset="utf-8"><meta name="viewport" content="width=device-width, i
 echo '</head>'
 echo '<body style="background-color:white">'
 echo "<h2 style=color:blue;>Wi-FI Campus 2</h2>"
-cat /var/www/html/logff
+cat /var/www/html/aps
 exit 0
