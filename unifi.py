@@ -9,10 +9,10 @@ import requests
 
 
 data = '{"username":"admin","password":"SENHA","strict":true}'
-response = requests.post('https://10.0.9.2:8443/api/login', data=data, verify=False)
+response = requests.post('https://200.0.9.2:8443/api/login', data=data, verify=False)
 cookies = {
 }
-response = requests.get('https://10.0.9.2:8443/api/s/default/stat/device', cookies=cookies, verify=False)
+response = requests.get('https://200.0.9.2:8443/api/s/default/stat/device', cookies=cookies, verify=False)
 
 
 print ("<body>")
